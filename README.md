@@ -1,5 +1,7 @@
 # Firefox theme
 
+My personal firefox theme, mostly using [Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) patched for the alpenglow theme, as well as a few small tweaks from [firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks)
+
 ## setup
 
 - create folder `vendor`
