@@ -1,0 +1,22 @@
+/*@import url(vendor/slick-fox/userChrome.css);
+@import url(slick-fox-fixes.css);*/
+
+@import url("vendor/Firefox-Mod-Blur/userChrome.css");
+@import url("vendor/Firefox-Mod-Blur/EXTRA MODS/Tabs Bar Mods/Tabs - selected tabs static width/selected_tabs_static_width.css");
+/* @import url("vendor/Firefox-Mod-Blur/EXTRA MODS/Tabs Bar Mods/Tabs - transparent background color/transparent_tabs_bg_color.css"); */
+
+@import url("vendor/firefox-csshacks/chrome/button_effect_icon_glow.css");
+@import url("vendor/firefox-csshacks/chrome/loading_indicator_bouncing_line.css");
+/*@import url("vendor/firefox-csshacks/chrome/tab_animated_active_border.css");  /* TODO fix to make compatible */
+@import url("vendor/firefox-csshacks/chrome/tab_close_button_always_on_hover.css");
+
+:root {
+    --firefoxcss-border-radius: 3px;
+
+    --firefoxcss-url-bar-bg-color: #2d245b;
+
+    --firefoxcss-tab-bg-color: transparent;
+    --firefoxcss-tab-hover-bg-color: #FFFFFF40;
+    --firefoxcss-tab-active-bg-color: #FFFFFF40;
+  }
+

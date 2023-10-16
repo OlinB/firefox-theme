@@ -1,0 +1,17 @@
+#TabsToolbar .tabbrowser-tab,
+#TabsToolbar .tabbrowser-tab .tab-stack,
+#TabsToolbar .tabbrowser-tab .tab-background,
+#TabsToolbar .tabbrowser-tab .tab-content {
+    border-top-left-radius: 5px !important;
+    border-top-right-radius: 5px !important;
+    border-bottom-left-radius: 5px !important;
+    border-bottom-right-radius: 5px !important;
+}
+
+#TabsToolbar {
+    padding-bottom: 5px !important;
+}
+
+#TabsToolbar > .titlebar-buttonbox-container {
+    margin-right: 0;
+}
