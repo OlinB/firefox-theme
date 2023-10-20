@@ -12,12 +12,6 @@
 
 :root {
     --firefoxcss-border-radius: 3px;
-
-    --firefoxcss-url-bar-bg-color: #2d245b;
-
-    --firefoxcss-tab-bg-color: transparent;
-    --firefoxcss-tab-hover-bg-color: #FFFFFF40;
-    --firefoxcss-tab-active-bg-color: #FFFFFF40;
   }
 
 /*Bookmarklet icons*/
